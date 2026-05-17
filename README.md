@@ -81,7 +81,12 @@ It is built as a practical AI product, not just a chatbot demo.
 
 `Python` · `Flask` · `PostgreSQL` · `Supabase` · `Docker` · `Nginx` · `Cloudflare` · `Telegram Bot API` · `APScheduler` · `Playwright` · `Gemini` · `DeepSeek` · `RAG` · `Semantic Routing`
 
-> Demo video / GIF coming soon.
+
+<img width="945" height="2048" alt="WhatsApp Image 2026-05-17 at 9 39 52 AM (1)" src="https://github.com/user-attachments/assets/91400efe-7ee5-4e2b-bfd8-9923c31c41d0" />
+<img width="945" height="2048" alt="WhatsApp Image 2026-05-17 at 9 39 52 AM" src="https://github.com/user-attachments/assets/96847d70-33d0-4de6-9738-9ba52f3acb66" />
+<img width="945" height="2048" alt="WhatsApp Image 2026-05-17 at 9 39 52 AM (2)" src="https://github.com/user-attachments/assets/bfa53213-5e26-48c6-bc5c-a055e69e108d" />
+
+
 
 ---
 
