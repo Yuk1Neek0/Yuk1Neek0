@@ -46,6 +46,39 @@ Engineering Workflow   Git · CI/CD · Documentation · Testing · Human-reviewe
 ```
 
 ---
+## AI Automation & Agentic Development Workflow
+
+I am actively building an AI-native development workflow for my **Agentic Learning Coach** direction. This project is not just about using AI tools to write code faster. The goal is to design a repeatable, reviewable, and production-oriented way to build software with AI agents while keeping human control, documentation, testing, and traceability.
+
+This project reflects how I independently learn and apply modern AI development practices: I start from product goals, break them into milestones, write PRDs/specs, create technical decision records, generate implementation tasks, use AI coding agents for bounded execution, review diffs, run verification commands, and document what was changed.
+
+### What I built and practiced
+
+- Designed an AI-native development workflow using PRDs, specs, GitHub Issues, ADRs, review notes, and milestone plans.
+- Created a structured process where AI agents can help with planning, coding, refactoring, reviewing, and documentation, but human review remains the final authority.
+- Built project rules to prevent uncontrolled “vibe coding,” such as requiring scoped tasks, reviewable diffs, verification commands, and clear acceptance criteria.
+- Practiced breaking vague product ideas into concrete milestones, issues, page specs, and implementation tasks.
+- Used AI coding tools to accelerate development while still checking architecture, code quality, security risks, and maintainability.
+- Integrated software engineering practices such as CI checks, documentation, test planning, Git workflow, and issue-based execution.
+- Explored how AI agents can support full-stack development, product planning, code review, and learning-oriented software engineering.
+
+### Why this matters
+
+Many AI-assisted projects fail because they generate code quickly but lack structure, review, testing, and long-term maintainability. This project is my attempt to build a more professional workflow for AI-assisted software development.
+
+Instead of treating AI as a magic code generator, I use it as part of an engineering pipeline:
+
+```text
+Product idea
+→ PRD / Spec
+→ Milestone plan
+→ GitHub issues
+→ Bounded AI-assisted implementation
+→ AI self-review
+→ Human review
+→ Local verification
+→ Documentation
+→ Commit / PR
 
 ## Featured Project: Family Daily Bot
 
@@ -177,25 +210,6 @@ Through these R&D projects, I gained hands-on experience with:
 
 I have worked across multiple real project environments where the goal was not only to write code, but to deliver working systems that could be reviewed, tested, demonstrated, and improved.
 
----
-
-## AI-Native Development Workflow
-
-I am also building an **AI-native industrial development workflow** for my Agentic Learning Coach direction.
-
-The goal is to use AI coding agents aggressively but safely, through:
-
-- PRDs and specs before implementation
-- GitHub Issues as execution units
-- ADRs for technical decisions
-- CI and security checks
-- AI self-review and human review
-- Clear documentation and traceability
-- Avoiding uncontrolled “vibe coding”
-
-This project reflects my interest in making AI-assisted software development more structured, reviewable, and production-ready.
-
----
 
 ## WordPress Capstone Projects
 
