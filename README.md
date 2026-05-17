@@ -79,6 +79,9 @@ Product idea
 → Local verification
 → Documentation
 → Commit / PR
+```
+
+---
 
 ## Featured Project: Family Daily Bot
 
@@ -210,6 +213,7 @@ Through these R&D projects, I gained hands-on experience with:
 
 I have worked across multiple real project environments where the goal was not only to write code, but to deliver working systems that could be reviewed, tested, demonstrated, and improved.
 
+---
 
 ## WordPress Capstone Projects
 
