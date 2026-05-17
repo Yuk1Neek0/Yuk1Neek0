@@ -9,7 +9,6 @@ I build practical software systems that combine **Python backends, AI automation
 Currently focused on building production-style AI applications: **LLM-powered assistants, automation workflows, semantic routing, RAG-style memory, dashboards, and deployable Python services**.
 
 [![GitHub followers](https://img.shields.io/github/followers/Yuk1Neek0?label=Followers&style=social)](https://github.com/Yuk1Neek0)
-[![Profile views](https://komarev.com/ghpvc/?username=Yuk1Neek0&style=flat-square)](https://github.com/Yuk1Neek0)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sikai%20Han-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/sikai-han-6b7266348)
 [![GitHub](https://img.shields.io/badge/GitHub-Yuk1Neek0-181717?style=flat-square&logo=github)](https://github.com/Yuk1Neek0)
 
@@ -86,6 +85,95 @@ It is built as a practical AI product, not just a chatbot demo.
 
 ---
 
+## Cambrian R&D Real Project Experience
+
+At **Cambrian College R&D**, I have worked on multiple applied research and client-facing technical projects across AI, full-stack development, mobile learning software, and IoT/hardware integration.
+
+These projects helped me gain experience beyond classroom assignments: communicating with stakeholders, clarifying requirements, building working prototypes, debugging real systems, documenting progress, and delivering end-to-end solutions.
+
+### CSMC AI / Geophysical Deep Learning Project
+
+AI training and scientific data-processing project focused on geophysical reconstruction and model experimentation.
+
+**What I worked on:**
+
+- Built and maintained Python-based data-processing workflows for gravity, LiDAR, and magnetometry-related datasets.
+- Worked with structured configuration files to manage dataset paths, training parameters, and model hyperparameters.
+- Supported PyTorch / CNN-based experimentation for 3D subsurface reconstruction.
+- Reviewed generated model outputs for quality, logical consistency, and edge-case failures.
+- Helped organize experiment artifacts, model checkpoints, and reproducibility-related configuration.
+
+**Skills demonstrated:** `Python` · `PyTorch` · `CNN` · `Data Processing` · `AI/ML` · `Scientific Data` · `Model Evaluation`
+
+---
+
+### Enkiube QMS / Document Audit Web Application
+
+Cloud-deployed full-stack web application for document audit and workflow management.
+
+**What I worked on:**
+
+- Built and debugged React frontend features and Flask backend APIs.
+- Worked on authentication and authorization flows using Microsoft OAuth / AWS Cognito concepts.
+- Helped implement RBAC-style permission logic for different user roles and access levels.
+- Worked with AWS deployment architecture including Elastic Beanstalk, CloudFront, S3, Cognito, and GitHub Actions.
+- Contributed to CI/CD workflow design for branch-based deployment and environment-specific configuration.
+- Debugged production-style issues involving environment variables, authentication tokens, CORS, and deployment differences across branches.
+
+**Skills demonstrated:** `React` · `Flask` · `AWS` · `GitHub Actions` · `OAuth` · `RBAC` · `REST APIs` · `CI/CD`
+
+---
+
+### Cambrian Learning App
+
+Mobile learning platform prototype for educational content and learning workflows.
+
+**What I worked on:**
+
+- Developed Flutter/Dart mobile application screens and reusable UI components.
+- Supported database design for learning content, user profiles, and progress tracking.
+- Worked on role-based access concepts for students, instructors, and administrators.
+- Helped structure educational content workflows and user-facing learning experiences.
+- Contributed to debugging, UI improvement, and documentation for handoff and review.
+
+**Skills demonstrated:** `Flutter` · `Dart` · `Mobile Development` · `Database Design` · `RBAC` · `UI Development`
+
+---
+
+### Sofvie Box / RFID Vehicle Access Control System
+
+IoT and hardware-integrated access control system using RFID and Raspberry Pi.
+
+**What I worked on:**
+
+- Developed Python scripts for Raspberry Pi hardware control.
+- Integrated RFID reader logic with relay-based access control workflows.
+- Supported hardware debugging, cabling, soldering, signal verification, and circuit testing.
+- Helped assemble and test physical units in a lab environment.
+- Improved reliability through debugging hardware/software interaction issues.
+
+**Skills demonstrated:** `Python` · `Raspberry Pi` · `RFID` · `IoT` · `Hardware Debugging` · `Relay Control` · `Embedded Systems`
+
+---
+
+### Summary of R&D Experience
+
+Through these R&D projects, I gained hands-on experience with:
+
+- Client-facing and stakeholder-driven project work
+- Requirements clarification and technical communication
+- End-to-end prototype delivery
+- Full-stack web development
+- AI/ML data-processing workflows
+- Cloud deployment and CI/CD
+- Mobile application development
+- IoT and hardware/software integration
+- Debugging, documentation, and handoff
+
+I have worked across multiple real project environments where the goal was not only to write code, but to deliver working systems that could be reviewed, tested, demonstrated, and improved.
+
+---
+
 ## AI-Native Development Workflow
 
 I am also building an **AI-native industrial development workflow** for my Agentic Learning Coach direction.
@@ -112,57 +200,35 @@ I also built three production-style custom WordPress capstone projects to demons
 
 **Live Demo:** https://northstonedemo.s3-tastewp.com/
 
-A custom restaurant WordPress theme with:
-
-- `menu_item` and `event` Custom Post Types
-- Menu categories and dietary tags
-- Native meta fields for price, calories, spice level, featured status, preparation time, and event details
-- Restaurant-style homepage, menu archive, event archive, and single templates
-- Archive filtering, REST output, JSON-LD schema, and responsive templates
+A custom restaurant WordPress theme with `menu_item` and `event` Custom Post Types, menu categories, dietary tags, native meta fields, archive filtering, REST output, JSON-LD schema, and responsive templates.
 
 ### OreVista Industrial Pro
 
 **Live Demo:** https://orevistademo.s3-tastewp.com/
 
-A B2B industrial technology WordPress theme with:
-
-- `service` and `case_study` Custom Post Types
-- Industry and technology taxonomies
-- Case study metrics, service timelines, technology tags, and business outcome sections
-- B2B-style service pages, case study reports, process sections, and metric-driven layouts
-- REST API output, archive filtering, and responsive design
+A B2B industrial technology WordPress theme with `service` and `case_study` Custom Post Types, industry and technology taxonomies, case study metrics, service timelines, REST API output, archive filtering, and responsive design.
 
 ### Sudbury Student Rentals Pro
 
 **Live Demo:** https://sudburyrentals.s6-tastewp.com/
 
-A rental listing WordPress theme with:
-
-- `rental_listing` and `landlord` Custom Post Types
-- Property type and rental location taxonomies
-- Structured meta fields for price, bedrooms, bathrooms, availability, utilities, distance, landlord reference, and contact information
-- Marketplace-style listing archive, landlord directory, single listing pages, and availability badges
-- REST API output, archive filtering, and responsive UX
+A rental listing WordPress theme with `rental_listing` and `landlord` Custom Post Types, property/location taxonomies, structured listing fields, availability badges, REST API output, archive filtering, and responsive UX.
 
 ---
 
-## Other Projects
-
-### Enkiube QMS / Document Audit Web Application
-
-A cloud-deployed full-stack application with React, Flask, AWS Elastic Beanstalk, CloudFront, Microsoft OAuth / Cognito authentication, RBAC, and GitHub Actions CI/CD.
+## Other Independent Projects
 
 ### Secondhand Marketplace
 
 A Flask + React marketplace project with JWT authentication, PostgreSQL, SQLAlchemy/Alembic migrations, REST APIs, and negotiation workflows.
 
-### CSMC AI / Geophysical Deep Learning Project
+### Fridge Chef AI
 
-An AI training and data-processing project involving Python, PyTorch/CNN modeling, gravity/LiDAR/magnetometry data, structured configs, and model output quality checks.
+An AI-inspired recipe suggestion project based on available ingredients.
 
-### Sofvie Box / RFID Vehicle Access Control System
+### SmartHomeMonitor
 
-An IoT and hardware integration project involving Raspberry Pi, RFID reader integration, relay control, Python scripting, cabling, soldering, and hardware debugging.
+A smart home monitoring dashboard prototype for sensor-oriented UI practice.
 
 ---
 
@@ -174,11 +240,11 @@ An IoT and hardware integration project involving Raspberry Pi, RFID reader inte
 
 ### Backend / AI
 
-`Python` · `Flask` · `REST APIs` · `PostgreSQL` · `Supabase` · `APScheduler` · `Playwright` · `LLM APIs` · `RAG concepts` · `Semantic Routing`
+`Python` · `Flask` · `REST APIs` · `PostgreSQL` · `Supabase` · `APScheduler` · `Playwright` · `LLM APIs` · `PyTorch` · `RAG concepts` · `Semantic Routing`
 
 ### Frontend
 
-`React` · `TypeScript` · `JavaScript` · `HTML` · `CSS` · `Responsive UI` · `WordPress Themes`
+`React` · `TypeScript` · `JavaScript` · `HTML` · `CSS` · `Flutter` · `Dart` · `Responsive UI` · `WordPress Themes`
 
 ### DevOps / Deployment
 
